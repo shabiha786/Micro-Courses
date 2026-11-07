@@ -9,11 +9,9 @@ This repository contains my certificates, course material and practice data from
 | 30 Days Python Micro Course | SkillCourse | 07/11/2026 | SC-DPWWHSREEB |
 | 30 Days Power BI Micro Course | SkillCourse | 07/09/2026 | SC-EEZH9U6SE8 |
 
-### 30 Days Python Micro Course
-![Python Certificate](Python%20Certificate.png)
+![Python Certificate](YAHAN-PYTHON-WALI-FILE-KA-NAAM.png)
 
-### 30 Days Power BI Micro Course
-![Python Certificate](YOUR-EXACT-FILE-NAME.png)
+![Power BI Certificate](YAHAN-POWER-BI-WALI-FILE-KA-NAAM.png)
 
 ## Skills Gained
 
