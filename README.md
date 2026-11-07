@@ -44,6 +44,3 @@ This repository contains my certificates, course material and practice data from
 
 The dataset has inconsistent name casing, extra spaces and repeated records, so it is useful for practicing data cleaning in Power Query Editor.
 
-## Verification
-
-Certificates are issued by [SkillCourse](https://www.skillcourse.in) (ISO 9001:2015). Each can be verified using the Certificate ID and QR code printed on it.
