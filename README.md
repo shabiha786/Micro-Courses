@@ -1,4 +1,4 @@
-certificates/
+# certificates/
 ├── README.md
 ├── python-micro-course.png
 └── power-bi-micro-course.png
